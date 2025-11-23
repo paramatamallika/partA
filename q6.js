@@ -1,0 +1,1 @@
+const multipy=(a,b)=> a*b;
